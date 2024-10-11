@@ -1,4 +1,4 @@
-# prompt: can you create a detailed readme.md on all the code dispalyed above
+
 
 # Data Processing and Cleaning Script
 
@@ -30,6 +30,4 @@ The script performs the following operations:
 7. **Saving Garbage Data:** Saves all invalid or duplicate rows to a separate CSV file named 'garbage_data.csv'.
 
 
-## Code Examples
 
-### 1. Importing Libraries and Loading CSV:
